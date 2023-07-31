@@ -1,0 +1,232 @@
+[
+  {
+    "Name": "Cillessen",
+    "Position": "G",
+    "StatAtt": 0,
+    "StatDef": 87,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1989-04-22",
+    "FullName": "Jasper Cillessen"
+  },
+  {
+    "Name": "Padt",
+    "Position": "G",
+    "StatAtt": 0,
+    "StatDef": 74,
+    "TeamNr": "S",
+    "Nationality": "dutch",
+    "BirthDate": "1990-06-06",
+    "FullName": "Sergio Padt"
+  },
+  {
+    "Name": "Zoet",
+    "Position": "G",
+    "StatAtt": 0,
+    "StatDef": 80,
+    "TeamNr": "O",
+    "Nationality": "dutch",
+    "BirthDate": "1991-01-06",
+    "FullName": "Jeroen Zoet"
+  },
+  {
+    "Name": "Aké",
+    "Position": "D",
+    "StatAtt": 13,
+    "StatDef": 83,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1995-02-18",
+    "FullName": "Nathan Aké"
+  },
+  {
+    "Name": "Blind",
+    "Position": "D",
+    "StatAtt": 18,
+    "StatDef": 86,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1990-03-09",
+    "FullName": "Daley Blind"
+  },
+  {
+    "Name": "de Ligt",
+    "Position": "D",
+    "StatAtt": 9,
+    "StatDef": 86,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1999-08-12",
+    "FullName": "Matthijs de Ligt"
+  },
+  {
+    "Name": "de Vrij",
+    "Position": "D",
+    "StatAtt": 16,
+    "StatDef": 91,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1992-02-05",
+    "FullName": "Stefan de Vrij"
+  },
+  {
+    "Name": "Janmaat",
+    "Position": "D",
+    "StatAtt": 45,
+    "StatDef": 76,
+    "TeamNr": "S",
+    "Nationality": "dutch",
+    "BirthDate": "1989-07-22",
+    "FullName": "Daryl Janmaat"
+  },
+  {
+    "Name": "Tete",
+    "Position": "D",
+    "StatAtt": 40,
+    "StatDef": 78,
+    "TeamNr": "S",
+    "Nationality": "dutch",
+    "BirthDate": "1995-10-09",
+    "FullName": "Kenny Tete"
+  },
+  {
+    "Name": "van Aanholt",
+    "Position": "D",
+    "StatAtt": 42,
+    "StatDef": 79,
+    "TeamNr": "O",
+    "Nationality": "dutch",
+    "BirthDate": "1990-08-29",
+    "FullName": "Patrick van Aanholt"
+  },
+  {
+    "Name": "van Dijk",
+    "Position": "D",
+    "StatAtt": 17,
+    "StatDef": 92,
+    "TeamNr": "O",
+    "Nationality": "dutch",
+    "BirthDate": "1991-07-08",
+    "FullName": "Virgil van Dijk"
+  },
+  {
+    "Name": "Babel",
+    "Position": "M",
+    "StatAtt": 89,
+    "StatDef": 83,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1986-12-19",
+    "FullName": "Ryan Babel"
+  },
+  {
+    "Name": "de Jong F.",
+    "Position": "M",
+    "StatAtt": 78,
+    "StatDef": 76,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1997-05-12",
+    "FullName": "Frenkie de Jong"
+  },
+  {
+    "Name": "de Roon",
+    "Position": "M",
+    "StatAtt": 83,
+    "StatDef": 84,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1991-03-29",
+    "FullName": "Marten de Roon"
+  },
+  {
+    "Name": "Pröpper",
+    "Position": "M",
+    "StatAtt": 85,
+    "StatDef": 83,
+    "TeamNr": "S",
+    "Nationality": "dutch",
+    "BirthDate": "1991-09-02",
+    "FullName": "Davy Pröpper"
+  },
+  {
+    "Name": "Strootman",
+    "Position": "M",
+    "StatAtt": 89,
+    "StatDef": 89,
+    "TeamNr": "S",
+    "Nationality": "dutch",
+    "BirthDate": "1990-02-13",
+    "FullName": "Kevin Strootman"
+  },
+  {
+    "Name": "van de Beek",
+    "Position": "M",
+    "StatAtt": 81,
+    "StatDef": 81,
+    "TeamNr": "S",
+    "Nationality": "dutch",
+    "BirthDate": "1997-04-18",
+    "FullName": "Donny van de Beek"
+  },
+  {
+    "Name": "Vormer",
+    "Position": "M",
+    "StatAtt": 83,
+    "StatDef": 82,
+    "TeamNr": "O",
+    "Nationality": "dutch",
+    "BirthDate": "1988-05-11",
+    "FullName": "Ruud Vormer"
+  },
+  {
+    "Name": "Wijnaldum",
+    "Position": "M",
+    "StatAtt": 88,
+    "StatDef": 90,
+    "TeamNr": "O",
+    "Nationality": "dutch",
+    "BirthDate": "1990-11-11",
+    "FullName": "Georginio Wijnaldum"
+  },
+  {
+    "Name": "de Jong L.",
+    "Position": "A",
+    "StatAtt": 78,
+    "StatDef": 18,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1990-08-27",
+    "FullName": "Luuk de Jong"
+  },
+  {
+    "Name": "Depay",
+    "Position": "A",
+    "StatAtt": 92,
+    "StatDef": 44,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1994-02-13",
+    "FullName": "Memphis Depay"
+  },
+  {
+    "Name": "Kluivert",
+    "Position": "A",
+    "StatAtt": 79,
+    "StatDef": 36,
+    "TeamNr": "T",
+    "Nationality": "dutch",
+    "BirthDate": "1999-05-05",
+    "FullName": "Justin Kluivert"
+  },
+  {
+    "Name": "Promes",
+    "Position": "A",
+    "StatAtt": 88,
+    "StatDef": 40,
+    "TeamNr": "S",
+    "Nationality": "dutch",
+    "BirthDate": "1992-01-04",
+    "FullName": "Quincy Promes"
+  }
+ ]

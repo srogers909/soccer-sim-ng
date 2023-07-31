@@ -1,0 +1,232 @@
+[
+  {
+    "Name": "Butland",
+    "Position": "G",
+    "StatAtt": 0,
+    "StatDef": 87,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1993-03-10",
+    "FullName": "Jack Butland"
+  },
+  {
+    "Name": "McCarthy",
+    "Position": "G",
+    "StatAtt": 0,
+    "StatDef": 71,
+    "TeamNr": "S",
+    "Nationality": "english",
+    "BirthDate": "1989-12-03",
+    "FullName": "Alex McCarthy"
+  },
+  {
+    "Name": "Pickford",
+    "Position": "G",
+    "StatAtt": 0,
+    "StatDef": 90,
+    "TeamNr": "O",
+    "Nationality": "english",
+    "BirthDate": "1994-03-07",
+    "FullName": "Jordan Pickford"
+  },
+  {
+    "Name": "Alexander-Arnold",
+    "Position": "D",
+    "StatAtt": 40,
+    "StatDef": 83,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1998-10-07",
+    "FullName": "Trent Alexander-Arnold"
+  },
+  {
+    "Name": "Gomez",
+    "Position": "D",
+    "StatAtt": 11,
+    "StatDef": 85,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1997-05-23",
+    "FullName": "Joe Gomez"
+  },
+  {
+    "Name": "Maguire",
+    "Position": "D",
+    "StatAtt": 15,
+    "StatDef": 92,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1993-03-05",
+    "FullName": "Harry Maguire"
+  },
+  {
+    "Name": "Rose",
+    "Position": "D",
+    "StatAtt": 43,
+    "StatDef": 89,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1990-07-02",
+    "FullName": "Danny Rose"
+  },
+  {
+    "Name": "Shaw",
+    "Position": "D",
+    "StatAtt": 45,
+    "StatDef": 83,
+    "TeamNr": "S",
+    "Nationality": "english",
+    "BirthDate": "1995-07-12",
+    "FullName": "Luke Shaw"
+  },
+  {
+    "Name": "Stones",
+    "Position": "D",
+    "StatAtt": 14,
+    "StatDef": 93,
+    "TeamNr": "S",
+    "Nationality": "english",
+    "BirthDate": "1994-05-28",
+    "FullName": "John Stones"
+  },
+  {
+    "Name": "Tarkowski",
+    "Position": "D",
+    "StatAtt": 15,
+    "StatDef": 84,
+    "TeamNr": "O",
+    "Nationality": "english",
+    "BirthDate": "1992-11-19",
+    "FullName": "James Tarkowski"
+  },
+  {
+    "Name": "Trippier",
+    "Position": "D",
+    "StatAtt": 49,
+    "StatDef": 89,
+    "TeamNr": "O",
+    "Nationality": "english",
+    "BirthDate": "1990-09-19",
+    "FullName": "Kieran Trippier"
+  },
+  {
+    "Name": "Walker",
+    "Position": "D",
+    "StatAtt": 48,
+    "StatDef": 92,
+    "TeamNr": "O",
+    "Nationality": "english",
+    "BirthDate": "1990-05-28",
+    "FullName": "Kyle Walker"
+  },
+  {
+    "Name": "Alli",
+    "Position": "M",
+    "StatAtt": 96,
+    "StatDef": 93,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1996-04-11",
+    "FullName": "Dele Alli"
+  },
+  {
+    "Name": "Delph",
+    "Position": "M",
+    "StatAtt": 83,
+    "StatDef": 85,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1989-11-21",
+    "FullName": "Fabian Delph"
+  },
+  {
+    "Name": "Dier",
+    "Position": "M",
+    "StatAtt": 89,
+    "StatDef": 94,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1994-01-15",
+    "FullName": "Eric Dier"
+  },
+  {
+    "Name": "Gray",
+    "Position": "M",
+    "StatAtt": 89,
+    "StatDef": 83,
+    "TeamNr": "S",
+    "Nationality": "english",
+    "BirthDate": "1996-06-28",
+    "FullName": "Demarai Gray"
+  },
+  {
+    "Name": "Henderson",
+    "Position": "M",
+    "StatAtt": 89,
+    "StatDef": 89,
+    "TeamNr": "S",
+    "Nationality": "english",
+    "BirthDate": "1990-06-17",
+    "FullName": "Jordan Henderson"
+  },
+  {
+    "Name": "Loftus-Cheek",
+    "Position": "M",
+    "StatAtt": 86,
+    "StatDef": 84,
+    "TeamNr": "O",
+    "Nationality": "english",
+    "BirthDate": "1996-01-23",
+    "FullName": "Ruben Loftus-Cheek"
+  },
+  {
+    "Name": "Kane",
+    "Position": "A",
+    "StatAtt": 97,
+    "StatDef": 15,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1993-07-28",
+    "FullName": "Harry Kane"
+  },
+  {
+    "Name": "Lingard",
+    "Position": "A",
+    "StatAtt": 91,
+    "StatDef": 45,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1992-12-15",
+    "FullName": "Jesse Lingard"
+  },
+  {
+    "Name": "Rashford",
+    "Position": "A",
+    "StatAtt": 90,
+    "StatDef": 10,
+    "TeamNr": "T",
+    "Nationality": "english",
+    "BirthDate": "1997-10-31",
+    "FullName": "Marcus Rashford"
+  },
+  {
+    "Name": "Sterling",
+    "Position": "A",
+    "StatAtt": 94,
+    "StatDef": 47,
+    "TeamNr": "S",
+    "Nationality": "english",
+    "BirthDate": "1994-12-08",
+    "FullName": "Raheem Sterling"
+  },
+  {
+    "Name": "Welbeck",
+    "Position": "A",
+    "StatAtt": 84,
+    "StatDef": 17,
+    "TeamNr": "S",
+    "Nationality": "english",
+    "BirthDate": "1990-11-26",
+    "FullName": "Danny Welbeck"
+  }
+ ]
